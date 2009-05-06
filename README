@@ -3,5 +3,9 @@ Mitosis
 
 A plugin which enhances the cells framework by allowing you to bundle css and javascript with the cells they effect.
 
+Install
+=======
+script/plugin install http://github.com/cowboyd/mitosis.git
+
 
 Copyright (c) 2009 Charles Lowell of Frontside, released under the MIT license

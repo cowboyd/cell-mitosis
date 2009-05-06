@@ -1,5 +1,6 @@
-require 'spec'
+require File.join(File.dirname(__FILE__), 'spec_helper')
 require 'ostruct'
+
 require File.join(File.dirname(__FILE__), '..', 'lib', 'mitosis')
 
 describe "Cell::Helper" do
